@@ -1,5 +1,4 @@
 /*
-
 OVERVIEW:
 
 This script will read in data from a spreadsheet and generate custom spreadsheets
@@ -8,8 +7,7 @@ dates, different output email target, or a different spreadsheet source, you wil
 need to update the values of the variables declared in the 'Global vars' section 
 below.
 
-Created by Kevin Birk in Jan '19
-
+Created by knewyousir in Jan '19
 */
 
 function generateSheets() {
