@@ -7,4 +7,6 @@ dates, different output email target, or a different spreadsheet source, you wil
 need to update the values of the variables declared in the 'Global vars' section 
 below.  
   
+Just a note- the standard of JS that can be used in Google Apps Script appears not to support the 'let' type variable. For this reason I used 'var' type variables throughout this script.
+  
 Created by knewyousir in Jan '19
